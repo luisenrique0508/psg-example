@@ -1,0 +1,5 @@
+Primero que nada muy buenas.. a todos los organizadores
+de este evento, por su dedicación y esfuerzo en hacer que este evento sea muy didactico y entretenido. 
+Quiero dar la bienvenida a todos los participantes, a todos los que estan aquí para aprender y mejorar en el ambito de la programacion 
+en Python  les deseo mucha suerte y espero que puedan aprender mucho en este evento. 
+ Gracias..
