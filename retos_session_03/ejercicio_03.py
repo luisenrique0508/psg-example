@@ -1,0 +1,45 @@
+# Tutorial detallado de cómo lavar platos usando solo prints
+
+print("¡Bienvenido al tutorial de cómo lavar platos!")
+print("Paso 1: Reúne los materiales necesarios.")
+print("- Necesitarás una esponja. Se recomienda una esponja suave con un lado abrasivo para manchas difíciles.")
+print("- Detergente líquido para platos. Elige uno que sea efectivo pero suave con tus manos.")
+print("- Un cepillo pequeño o un estropajo para áreas difíciles de alcanzar.")
+print("- Un paño limpio o una rejilla para secar los platos.")
+print("- Agua tibia (ni muy caliente ni muy fría).")
+
+print("\nPaso 2: Organiza los platos sucios.")
+print("- Retira los restos de comida de los platos y utensilios con un tenedor o cuchillo.")
+print("- Agrupa los platos según su tipo: vasos, cubiertos, platos, ollas y sartenes.")
+
+print("\nPaso 3: Llena el fregadero o un recipiente con agua tibia.")
+print("- Añade unas gotas de detergente líquido al agua.")
+print("- Mezcla el agua con la mano o con la esponja para generar espuma.")
+
+print("\nPaso 4: Comienza a lavar los platos en el siguiente orden:")
+print("1. Lava primero los vasos y copas.")
+print("- Usa la esponja suave para evitar rayarlos.")
+print("- Enjuaga con agua limpia y colócalos en la rejilla para secar.")
+print("2. Lava los cubiertos.")
+print("- Frota cada utensilio con la esponja y presta atención a las áreas difíciles.")
+print("- Enjuaga y colócalos en la rejilla.")
+print("3. Lava los platos.")
+print("- Usa el lado suave de la esponja para evitar rayar la superficie.")
+print("- Enjuaga bien para eliminar cualquier residuo de detergente.")
+print("4. Lava las ollas y sartenes al final.")
+print("- Usa el lado abrasivo de la esponja o un estropajo para manchas difíciles.")
+print("- Si hay grasa persistente, deja las ollas en remojo con agua caliente y detergente por unos minutos antes de lavarlas.")
+
+print("\nPaso 5: Enjuaga todos los platos.")
+print("- Usa agua limpia para asegurarte de que no quede detergente en los platos.")
+print("- Si tienes un grifo con rociador, úsalo para facilitar el enjuague.")
+
+print("\nPaso 6: Seca los platos.")
+print("- Usa un paño limpio y seco para secar los platos manualmente.")
+print("- Alternativamente, deja que los platos se sequen al aire en una rejilla de secado.")
+
+print("\nPaso 7: Limpia el área de lavado.")
+print("- Vacía el fregadero y enjuaga cualquier residuo de detergente o comida.")
+print("- Lava la esponja y el estropajo, y déjalos secar al aire.")
+print("- Limpia las superficies alrededor del fregadero con un paño húmedo.")
+print("\n Fin del tutoriaal Has aprendido a lavar platos de manera efectiva y en orden .")
